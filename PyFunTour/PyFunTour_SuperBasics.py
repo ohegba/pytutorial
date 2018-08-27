@@ -66,3 +66,4 @@ four = timestwo_ntimes(2,1)
 string_two = "Two"
 
 elementary_math = (string_two + " times " + string_two + " = " + str(four))
+text_editor = "Atom"
